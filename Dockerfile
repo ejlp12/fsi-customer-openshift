@@ -1,5 +1,5 @@
 # This is the docker hub image
-FROM pmasala/entando-base-image-432
+FROM ejlp12/entando-base-image-432
 
 LABEL maintainer="Pietrangelo Masala <p.masala@entando.com>"
 
